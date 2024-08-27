@@ -1,0 +1,11 @@
+/* Adicione esta classe ao seu arquivo de estilos CSS */
+.zoomed {
+    transform: scale(1.16); /* Aumenta o tamanho em 16% */
+    transition: transform 0.3s ease; /* Adiciona uma transição suave */
+  }
+  /* styles.css */
+body.zoomed {
+    overflow: hidden;
+  }
+  
+  

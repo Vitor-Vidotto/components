@@ -1,0 +1,31 @@
+{
+  "name": "next-firebase-todo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.2.8",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@fontsource/open-sans": "^5.0.14",
+    "@fontsource/raleway": "^5.0.12",
+    "dotenv": "^16.3.1",
+    "firebase": "^10.4.0",
+    "framer-motion": "^7.2.0",
+    "next": "12.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "react-paginate": "^8.2.0",
+    "react-select": "^5.7.5"
+  },
+  "devDependencies": {
+    "eslint": "8.22.0",
+    "eslint-config-next": "12.2.5"
+  }
+}
