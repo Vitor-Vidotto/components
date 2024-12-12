@@ -1,0 +1,5 @@
+const Timeline = dynamic(() => import('../components/TimeLine'), {
+  ssr: false,
+});
+
+ <Timeline />

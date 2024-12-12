@@ -1,0 +1,9 @@
+<ActiveTooltip
+  tooltipText={
+    <>
+      Precisa de ajuda? <br /> Entre em contato!
+    </>
+  }
+>
+  <ThreeDScene />
+</ActiveTooltip>
